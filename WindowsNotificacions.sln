@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsNotificacions", "WindowsNotificacions.csproj", "{AE2E5C41-D216-4767-BC0B-0D914D4D0D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2E5C41-D216-4767-BC0B-0D914D4D0D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2E5C41-D216-4767-BC0B-0D914D4D0D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2E5C41-D216-4767-BC0B-0D914D4D0D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2E5C41-D216-4767-BC0B-0D914D4D0D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
